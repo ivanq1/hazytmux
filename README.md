@@ -1,4 +1,4 @@
-hazytmux
+# hazytmux
 
 A lightweight, extensible multi-agent shell IDE centered on tmux. Provides modular agent scaffolding for editor, file manager, and terminal orchestration. CrewAI-ready; minimal upfront constraints.
 
